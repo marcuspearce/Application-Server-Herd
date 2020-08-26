@@ -1,6 +1,6 @@
 # Application-Server-Herd
 
-Score: 100/100
+### Score: 100/100
 
 This project implements an Application Server Herd architecture to create a Location App, in which clients can provide readily-updatable GPS-based locations then request nearby attractions. It is implemented with Python, the asyncio library, and Google Maps API. 
 
