@@ -5,7 +5,7 @@ import json
 import time
 import re
 
-API_KEY = 'AIzaSyDIbleGwGlibD6Eq3LSem7sUI_Lpbdclig'
+API_KEY = ''
 
 LOCALHOST = '127.0.0.1'
 
