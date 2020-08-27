@@ -4,7 +4,7 @@
 
 This project implements an Application Server Herd architecture to create a Location App, in which clients can provide readily-updatable GPS-based locations then request nearby attractions. It is implemented with **Python**, the **Asyncio library**, and **Google Maps API**. 
 
-More details on the implementation, as well as the benefits and pitfalls of this approach as opposed to other languages/frameworks, is included in report.pdf. The server and client code is located the project directory. 
+More details on the implementation, as well as the benefits and pitfalls of this approach as opposed to other languages/frameworks, is documented in report.pdf. The server and client code is located the project directory. 
 
 This was my final project for UCLA's CS 131 -- Programming Languages. Taken Spring 2020.
 
